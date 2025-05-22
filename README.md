@@ -1,60 +1,62 @@
-# Sprint 1 - Site Responsivo
+CuidaBot – Assistente Digital de Saúde
+Repositório desenvolvido como parte da Sprint 1 da disciplina de Desenvolvimento Front-end, com o objetivo de criar uma solução tecnológica inclusiva e acessível para pacientes do Hospital das Clínicas.
 
-Projeto desenvolvido como parte da Sprint 1 da disciplina de Desenvolvimento Front-end.
+🎯 Objetivo do Projeto
+O CuidaBot é um robô assistente digital, projetado para oferecer suporte na utilização do aplicativo do Hospital das Clínicas, especialmente para pacientes com dificuldades de leitura, navegação ou compreensão de recursos digitais.
 
-## 🎯 Objetivo do Projeto
+A solução visa:
 
-Desenvolver um robô assistente digital acessível e intuitivo, integrado ao aplicativo do Hospital das Clínicas, com o objetivo de auxiliar pacientes com dificuldades de navegação, leitura ou entendimento das funcionalidades do aplicativo.
+Facilitar o agendamento de consultas e acompanhamentos pós-alta;
 
-O foco é melhorar a experiência do usuário com o app, auxiliando na marcação de consultas, no acompanhamento após alta médica, especialmente para pessoas idosas, com baixa alfabetização ou deficiências visuais, oferecendo uma interação simplificada, acessível e humanizada. Com isso, o atendimento poderá ser realizado mesmo a distância, promovendo inclusão e autonomia.
+Apoiar públicos com maior vulnerabilidade digital (idosos, pessoas com baixa alfabetização ou deficiência visual);
 
-Criar um site estático com HTML, CSS e JavaScript puro, sem frameworks, garantindo:
-- Responsividade
-- Acessibilidade
-- HTML semântico
-- Validação de formulário com JavaScript
+Promover inclusão digital e autonomia;
 
-## 📁 Estrutura do Projeto
+Fornecer uma experiência acessível e humanizada, mesmo a distância.
+
+O projeto contempla o desenvolvimento de um site estático utilizando tecnologias web fundamentais, com foco em responsividade, acessibilidade e usabilidade.
+
+🗂️ Estrutura do Projeto
+css
+Copiar
+Editar
+cuidaBot/
 ├── index.html
 ├── integrantes.html
 ├── faq.html
 ├── contato.html
 ├── solucoes.html
 ├── css/
-│ └── style.css
+│   └── style.css
 ├── js/
-│ └── script.js
+│   └── script.js
 ├── img/
-│ └── foto1.jpeg
-│ └── foto2.jpeg
-│ └── foto3.jpeg
-│ └── icone-email.jpg
-│ └── icone-faq.png
-│ └── icone-github.png
-│ └── icone-linkedin.jpg
-## 🛠️ Tecnologias Utilizadas
+│   ├── foto1.jpeg
+│   ├── foto2.jpeg
+│   ├── foto3.jpeg
+│   ├── icone-email.jpg
+│   ├── icone-faq.png
+│   ├── icone-github.png
+│   └── icone-linkedin.jpg
+🛠️ Tecnologias Utilizadas
+HTML5 (semântico)
 
-- HTML5
-- CSS3
-- JavaScript
+CSS3 (layout responsivo e acessível)
 
-## 👥 Integrantes
+JavaScript (validação de formulários e interações básicas)
 
-- **Lorena Steinwascher**  
-  RM: 561712  
-  Turma: 1TDSR
-  [GitHub](https://github.com/lorenasteinwascher) | [LinkedIn](https://linkedin.com/in/lorenasteinwascher)
+👩‍💻 Equipe Responsável
+Lorena Steinwascher
+RM: 561712 – Turma: 1TDSR
+GitHub | LinkedIn
 
-- **Laura Elvira**  
-  RM: 562204  
-  Turma: 1TDSR  
-  [GitHub](https://github.com/lauraelviraa) | [LinkedIn](https://linkedin.com/in/laura-elviraa-879351365/)
+Laura Elvira
+RM: 562204 – Turma: 1TDSR
+GitHub | LinkedIn
 
-  - **Isabelly Romano**  
-  RM: 564217  
-  Turma: 1TDSR  
-  [GitHub](https://github.com/isaromano) | [LinkedIn](https://linkedin.com/in/isabelly-romano-tempesta-85843b2b7)
+Isabelly Romano
+RM: 564217 – Turma: 1TDSR
+GitHub | LinkedIn
 
-## 🔗 Repositório no GitHub
-
-[https://github.com/devstars-equipe1/sprint1-site](https://github.com/devstars-equipe1/sprint1-site)
+🔗 Repositório no GitHub
+➡️ https://github.com/cuidaBot-equipe/cuidaBot
